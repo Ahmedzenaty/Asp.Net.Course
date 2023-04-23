@@ -3,7 +3,7 @@
 At This repo I will share my plane for learning Asp.net for web</h3>
 <h1> Week 1 </h1>  
 <h3>Learn C# from Microsoft course </h3>
-link: https://learn.microsoft.com/ar-sa/training/paths/get-started-c-sharp-part-1/?WT.mc_id=dotnet-35129-website
+link: https://youtu.be/GhQdlIFylQ8
 <h3> Learn oop </h3>
 https://www.youtube.com/watch?v=T9DAwNXggPI&list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5
 <h3> Learn Stack </h3>
